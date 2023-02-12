@@ -3,7 +3,7 @@
 ### Обо мне
 
 - Аналитик данных из Санкт-Петербурга 
-- Под наставничеством @kovrus, @azat-khatyn и @visorgood
+- Под наставничеством [@kovrus](https://github.com/kovrus), [@azat-khatyn](https://github.com/azat-khatyn) и [@visorgood](https://github.com/visorgood)
 - Фокусируюсь на развитии в решении комплексных аналитических задач 
 - Интересуюсь визуализацией данных с Tableau и Power BI 
 - Открыта для работы, моё резюме можно посмотреть [здесь](https://drive.google.com/file/d/1u1PPSGNhCH4QSgGZAJRcfAKRej-Z2fey/view?usp=share_link).
