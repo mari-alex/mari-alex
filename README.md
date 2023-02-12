@@ -6,7 +6,7 @@
 - I’m currently learning Data Analytics and Programming.
 - I’m currently focusing on learning Power BI and improving analytical SQL
   skills.
-- I’m currently open for a new job opportunity, this is my [CV](https://drive.google.com/file/d/1cNxzTxd7FnuP67GBw6SWjEjsDXk6hQ7v/view?usp=share_link).
+- I’m currently open to new job opportunities, this is my [CV](https://drive.google.com/file/d/1cNxzTxd7FnuP67GBw6SWjEjsDXk6hQ7v/view?usp=share_link).
  
 ### Skills
 
