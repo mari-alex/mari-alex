@@ -9,7 +9,7 @@
 - Открыта для работы, моё резюме можно посмотреть [здесь](https://drive.google.com/file/d/1u1PPSGNhCH4QSgGZAJRcfAKRej-Z2fey/view?usp=share_link)
 
  
-### Skills
+### Навыки
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-43B02A?style=for-the-badge&logo=sql&logoColor=white)
