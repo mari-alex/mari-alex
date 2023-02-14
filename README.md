@@ -6,7 +6,7 @@
 - Под наставничеством [@kovrus](https://github.com/kovrus), [@azat-khatyn](https://github.com/azat-khatyn) и [@visorgood](https://github.com/visorgood)
 - Фокусируюсь на развитии в решении комплексных аналитических задач 
 - Интересуюсь визуализацией данных с Tableau и Power BI 
-- Открыта для работы, моё резюме можно посмотреть [здесь](https://docs.google.com/document/d/1T8tKJhLLlIhJ77ttxtAmCE9IVJjrFWOx2C2Fn3QV4YQ/edit?usp=sharing)
+- Открыта для работы, моё резюме можно посмотреть [здесь](https://drive.google.com/file/d/1iqGzpPqxtBsOc0wscNb8loVp6bU6pmBh/view?usp=sharing)
 
 ### Навыки
 
